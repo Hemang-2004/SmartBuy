@@ -7,7 +7,7 @@ const Navbar = () => {
     <header className="w-full">
         <nav className="nav"> 
         <Link href="/" className='flex items-center gap-1'>
-        <Image src="/home/hemang/Desktop/SmartBuy/web-scrapper/public/assets/icons/logo.svg"  width={50} height={50} alt="logo"/>
+        <Image src="/assets/icons/logo.svg"  width={50} height={50} alt="logo"/>
         </Link>
             </nav >
     </header>
