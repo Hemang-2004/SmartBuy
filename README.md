@@ -1,3 +1,3 @@
 # Smart Buy
 
-geg
+This is a smart buy application made using nextJS
